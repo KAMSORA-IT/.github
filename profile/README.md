@@ -70,7 +70,7 @@ Behind KAMSORA is a small but driven team passionate about building tools that m
     <td align="center">
       <a href="https://github.com/alfredmagat23">
         <img src="https://github.com/alfredmagat23.png" width="80" alt="alfredmagat23" style="border-radius:50%"/><br/>
-        <sub><b>alfredmaga</b></sub>
+        <sub><b>alfredmagat</b></sub>
       </a><br/>
       <sub>Frontend Developer | QA</sub>
     </td>
