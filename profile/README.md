@@ -17,13 +17,16 @@
 
 KAMSORA IT Solution is an early-stage technology startup on a mission to deliver smart, reliable, and accessible software for developers and businesses alike. We move fast, build with purpose, and believe that great tools should be open and community-driven.
 
-Our work spans three core areas:
+---
 
-| Area | Focus |
-|---|---|
-| 🔧 **Open-Source Tooling** | Developer utilities, CLI tools, and libraries built for real-world use |
-| 🌐 **Web Applications** | Scalable, full-stack web projects built with modern technologies |
-| 📱 **Mobile Applications** | Cross-platform mobile experiences designed for performance |
+## Our Services
+
+| Area                          | Focus                                                                                                                                                |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌐 **Web Development**        | We design and develop modern, responsive websites and web applications that strengthen your online presence and support business growth.             |
+| 📱 **Mobile App Development** | We create high-performance mobile applications for Android and iOS, delivering seamless user experiences across devices.                             |
+| 💼 **Custom IT Solutions**    | We provide tailored software systems, business automation tools, and digital transformation services to help organizations operate more efficiently. |
+
 
 ---
 
@@ -37,7 +40,7 @@ Our work spans three core areas:
 
 ---
 
-## Contributors
+## Developers
 
 Behind KAMSORA is a small but driven team passionate about building tools that make a difference.
 
@@ -76,21 +79,9 @@ Behind KAMSORA is a small but driven team passionate about building tools that m
 
 ---
 
-## Contributing
-
-We welcome contributions of all kinds — whether it's a bug fix, a new feature, improved documentation, or a fresh idea.
-
-1. Browse open issues across our repositories
-2. Fork the repo and create a feature branch (`feat/your-feature`)
-3. Submit a pull request with a clear, concise description of your changes
-
-Please review the `CONTRIBUTING.md` file in each repository before getting started.
-
----
-
 ## License
 
-All KAMSORA IT Solution projects are open-source and released under the [MIT License](https://opensource.org/licenses/MIT) unless otherwise stated.
+All projects and solutions developed by KAMSORA IT Solutions are proprietary and tailored to meet the unique needs of our clients. Ownership, licensing, and usage rights are governed by the terms agreed upon for each project unless otherwise stated.
 
 ---
 
