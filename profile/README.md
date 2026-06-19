@@ -65,14 +65,14 @@ Behind KAMSORA is a small but driven team passionate about building tools that m
         <img src="https://github.com/bermasjonathan.png" width="80" alt="bermasjonathan" style="border-radius:50%"/><br/>
         <sub><b>bermasjonathan</b></sub>
       </a><br/>
-      <sub>Fullstack Developer</sub>
+      <sub>Cyber Security</sub>
     </td>
     <td align="center">
       <a href="https://github.com/alfredmagat23">
         <img src="https://github.com/alfredmagat23.png" width="80" alt="alfredmagat23" style="border-radius:50%"/><br/>
         <sub><b>alfredmaga</b></sub>
       </a><br/>
-      <sub>Fullstack Developer</sub>
+      <sub>Frontend Developer | QA</sub>
     </td>
   </tr>
 </table>
